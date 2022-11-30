@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joaocaemerer
-- 👀 I’m interested in 🐍Python, 🔬Data Science, 
+- 👀 I’m interested in 🐍Python, 🔬Data Engineering, 
 - 🌱 I’m currently learning 🖥Javascript, 📱React
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me fernando.caemerer@gmail.com
