@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joaocaemerer
 - 👀 I’m interested in 🐍Python, 🔬Data Engineering, 
-- 🌱 I’m currently learning 🖥Javascript, 📱React
-- 💞️ I’m looking to collaborate on Front-end projects
+- 🌱 I’m currently learning 🖥Databricks, 📱Terraform
+- 💞️ I’m looking to collaborate on BigData projects
 - 📫 How to reach me fernando.caemerer@gmail.com
 
 <!---
